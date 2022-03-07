@@ -5,7 +5,7 @@
 It is a basic react app that lists the available tour packages for users to show their interests.
 
 
-![Tours App](https://i.postimg.cc/pV37m9g5/tours-app.png)
+![Tours App](https://github.com/sudarshan-sh/ToursApp/blob/main/images/tours-app.png)
 
 
 ## Functionality
