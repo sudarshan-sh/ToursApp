@@ -23,6 +23,6 @@ It is a basic react app that lists the available tour packages for users to show
 
 * Source of data :
 
-    Tours API - https://course-api.com/react-tour-projects
+    Tours API - https://course-api.com/react-tours-project
 
 
